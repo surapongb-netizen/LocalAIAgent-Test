@@ -5,7 +5,7 @@ Safe Hello Agent
 """
 
 def main():
-    message = "HELLO FROM SAFE LOCAL AI AGENT"
+    message = "HELLO FROM SAFE LOCAL AI AGENT VERSION 2"
     print(message)
 
 if __name__ == "__main__":

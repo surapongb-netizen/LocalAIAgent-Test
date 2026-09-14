@@ -16,7 +16,7 @@ def main():
     result = humanize.naturaltime(time_delta)
     
     # แสดงผลลัพธ์
-    print(result)
+    print("V2 RESULT: " + result)
 
 if __name__ == "__main__":
     main()
